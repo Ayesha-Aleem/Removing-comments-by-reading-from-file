@@ -1,0 +1,27 @@
+#include <stdio.h>
+int main() {
+    //read file and count spaces, numbers, char, number of lines and tabs
+    //test for wasey rao
+    char c;
+    FILE *file = fopen("test.txt", "r");
+    if (file == NULL) {
+        printf("File not found");
+    } else {
+        while ((c = fgetc(file)) != EOF) {
+            if (c == ' ') {
+                printf("\n");
+            } else {
+                /*
+                /* if (c == '\n') { * /
+                    testalfa alfatest alfa testalfatest
+                    al
+                    fa
+                    al fa
+                 */
+                printf("%c", c);
+            }
+        }
+
+    }
+    return 0;
+}

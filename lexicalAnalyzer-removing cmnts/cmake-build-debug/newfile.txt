@@ -1,0 +1,1 @@
+#include<stdio.h>int main() {        int c=4,z=2,d=0;         this program so     printf("D=%d",z}

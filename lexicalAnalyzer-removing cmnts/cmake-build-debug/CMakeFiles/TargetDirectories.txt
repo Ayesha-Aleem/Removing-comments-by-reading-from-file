@@ -1,0 +1,3 @@
+D:/C prac/lexicalAnalyzer-removing cmnts/cmake-build-debug/CMakeFiles/lexicalAnalyzer_removing_cmnts.dir
+D:/C prac/lexicalAnalyzer-removing cmnts/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C prac/lexicalAnalyzer-removing cmnts/cmake-build-debug/CMakeFiles/rebuild_cache.dir
